@@ -1,1 +1,2 @@
-install_env https://github.com/tfutils/tfenv.git
+#install_env https://github.com/tfutils/tfenv.git
+install_env https://github.com/anyenvs/tfenv.git main
